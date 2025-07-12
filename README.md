@@ -2,7 +2,7 @@
 
 This is the repository for MUFormer(2025 TIP)).
 
-![1752311409304](image/README/1752311409304.png)
+![1752323787616](image/README/1752323787616.png)
 
 ## Abstract
 
@@ -10,7 +10,7 @@ Multitemporal hyperspectral image unmixing (MTHU) holds significant importance i
 
 ## Datasets && Env
 
-The data set has been uploaded to Baidu web disk, and the link and extraction code are as follows:
+Please download the dataset and place it in the "./data "path，the data set has been uploaded to Baidu web disk, and the link and extraction code are as follows:
 
 链接：[https://pan.baidu.com/s/1u8vIAlYzrEMqr-7AafllKg?pwd=ft0v](https://pan.baidu.com/s/1u8vIAlYzrEMqr-7AafllKg?pwd=ft0v)
 
@@ -28,7 +28,7 @@ The training codes for the three datasets can be referred to as Unmix-lake.ipynb
 
 ## Test
 
-The realization of the model of assessment can consult ReDSUNN: [https://github.com/ricardoborsoi/ReDSUNN](https://github.com/ricardoborsoi/ReDSUNN "参考链接")
+All the test codes have been written in Matlab, the realization of the model of assessment can consult ReDSUNN: [https://github.com/ricardoborsoi/ReDSUNN](https://github.com/ricardoborsoi/ReDSUNN "参考链接")
 
 ## Citation
 
