@@ -28,7 +28,7 @@ The training codes for the three datasets can be referred to as Unmix-lake.ipynb
 
 ## Test
 
-All the test codes have been written in Matlab, the realization of the model of assessment can consult ReDSUNN: [https://github.com/ricardoborsoi/ReDSUNN](https://github.com/ricardoborsoi/ReDSUNN "参考链接")
+All the test codes have been written in Matlab, you can refer to files evaluate_results_ex1/ex2/Tahoe to test the three datasets (Remember to modify the path).
 
 ## Citation
 
@@ -43,3 +43,8 @@ If you find the code of our paper helpful to you, please quote the following con
   publisher={IEEE}
 }
 ```
+Thanks for the great work that inspires us：
+
+[ReDSUNN](https://github.com/ricardoborsoi/ReDSUNN)
+
+[DeepTrans-HSU](https://github.com/preetam22n/DeepTrans-HSU)
